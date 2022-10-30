@@ -4,7 +4,7 @@ This is my readme file :)
 Jumping Jack
 
 # Introduction- the project aim
-The aim of this project was to create a visually interactive children’s game developed using the software programming language Scratch. Using this software tool, the animated coded game responds to the speed of the space bar in order to jump over a series of inanimate objects and pass the level.
+The aim of this project was to create a visually interactive children’s game developed using the software programming language Scratch. Using this software tool, the animated coded game responds to the speed of the space bar in order to jump over a series of inanimate objects and pass the level. Once the Sprite (person) runs into the front of the train they die and the game starts again.
 
 # Technologies
 I am using scratch 3.0 
